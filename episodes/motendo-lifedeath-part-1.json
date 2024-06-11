@@ -1,12 +1,12 @@
 {
-  "id": 3,
+  "id": "motendo-lifedeath-part-1",
   "season": 1,
   "season_episode": 4,
   "series_episode": 4,
   "title": "Motendo / Lifedeath - Part 1",
   "release_date": "April 3, 2024",
   "image": {
-    "url": "https://raw.githubusercontent.com/myonixx/x-men-97-api/main/images/episodes/ep4.png",
+    "url": "https://raw.githubusercontent.com/myonixx/x-men-97-api/main/images/episodes/motendo-lifedeath-part-1.png",
     "alt": "Mojo appears behind Jubilee and Roberto"
   },
   "synopsis": "On her birthday, a nostalgic Jubilee is forced to relive the X-Men's greatest adventures when an entertainment system transports her into a 16-bit video game.",

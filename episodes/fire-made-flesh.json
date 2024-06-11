@@ -1,12 +1,12 @@
 {
-  "id": 2,
+  "id": "fire-made-flesh",
   "season": 1,
   "season_episode": 3,
   "series_episode": 3,
   "title": "Fire Made Flesh",
   "release_date": "March 27, 2024",
   "image": {
-    "url": "https://raw.githubusercontent.com/myonixx/x-men-97-api/main/images/episodes/ep3.png",
+    "url": "https://raw.githubusercontent.com/myonixx/x-men-97-api/main/images/episodes/fire-made-flesh.png",
     "alt": "Cyclops, Bishop, Morph, and Magneto prepare for battle"
   },
   "synopsis": "When a visitor arrives at the mansion with a dangerous secret that threatens Cyclops and Jean's relationship, the team is propelled into a tragic confrontation with an immortal mad scientist.",

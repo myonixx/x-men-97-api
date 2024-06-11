@@ -1,12 +1,12 @@
 {
-  "id": 8,
+  "id": "tolerance-is-extinction-part-2",
   "season": 1,
   "season_episode": 9,
   "series_episode": 9,
   "title": "Tolerance is Extinction - Part 2",
   "release_date": "May 8, 2024",
   "image": {
-    "url": "https://raw.githubusercontent.com/myonixx/x-men-97-api/main/images/episodes/ep9.png",
+    "url": "https://raw.githubusercontent.com/myonixx/x-men-97-api/main/images/episodes/tolerance-is-extinction-part-2.png",
     "alt": "Jubilee sits reading in the background while Nightcrawler prays holding a rosary"
   },
   "synopsis": "The X-Men work to settle the score before it is too late.",

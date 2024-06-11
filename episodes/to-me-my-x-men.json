@@ -1,12 +1,12 @@
 {
-  "id": 0,
+  "id": "to-me-my-x-men",
   "season": 1,
   "season_episode": 1,
   "series_episode": 1,
   "title": "To Me, My X-Men",
   "release_date": "March 20, 2024",
   "image": {
-    "url": "https://raw.githubusercontent.com/myonixx/x-men-97-api/main/images/episodes/ep1.png",
+    "url": "https://raw.githubusercontent.com/myonixx/x-men-97-api/main/images/episodes/to-me-my-x-men.png",
     "alt": "X-Men assembled around Cyclops"
   },
   "synopsis": "Cyclops races to find the source of new anti-mutant technology that threatens to upset mutant-human relations. His search leads them to an unexpected reunion with an old foe, even as the X-Men welcome a new addition to the team.",

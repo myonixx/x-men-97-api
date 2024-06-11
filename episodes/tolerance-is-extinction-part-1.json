@@ -1,12 +1,12 @@
 {
-  "id": 7,
+  "id": "tolerance-is-extinction-part-1",
   "season": 1,
   "season_episode": 8,
   "series_episode": 8,
   "title": "Tolerance is Extinction - Part 1",
   "release_date": "May 1, 2024",
   "image": {
-    "url": "https://raw.githubusercontent.com/myonixx/x-men-97-api/main/images/episodes/ep8.png",
+    "url": "https://raw.githubusercontent.com/myonixx/x-men-97-api/main/images/episodes/tolerance-is-extinction-part-1.png",
     "alt": "Battered Wolverine surrounded by flames"
   },
   "synopsis": "The X-Men must unite to face a new threat.",

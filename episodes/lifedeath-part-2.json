@@ -1,12 +1,12 @@
 {
-  "id": 5,
+  "id": "lifedeath-part-2",
   "season": 1,
   "season_episode": 6,
   "series_episode": 6,
   "title": "Lifedeath - Part 2",
   "release_date": "April 17, 2024",
   "image": {
-    "url": "https://raw.githubusercontent.com/myonixx/x-men-97-api/main/images/episodes/ep6.png",
+    "url": "https://raw.githubusercontent.com/myonixx/x-men-97-api/main/images/episodes/lifedeath-part-2.png",
     "alt": "Storm helps an injured Forge walk when something shocks them"
   },
   "synopsis": "Storm is forced to face her worst fears in order to free herself.",

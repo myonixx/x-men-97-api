@@ -1,12 +1,11 @@
 {
-  "id": 1,
-  "season": 1,
+  "season": "mutant-liberation-begins",
   "season_episode": 2,
   "series_episode": 2,
   "title": "Mutant Liberation Begins",
   "release_date": "March 20, 2024",
   "image": {
-    "url": "https://raw.githubusercontent.com/myonixx/x-men-97-api/main/images/episodes/ep2.png",
+    "url": "https://raw.githubusercontent.com/myonixx/x-men-97-api/main/images/episodes/mutant-liberation-begins.png",
     "alt": "Magneto stands trial in the UN"
   },
   "synopsis": "When Magneto is forced by the UN to stand trial, a group of anti-mutant rioters test his resolve.",

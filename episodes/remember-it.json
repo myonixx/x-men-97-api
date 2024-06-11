@@ -1,12 +1,12 @@
 {
-  "id": 4,
+  "id": "remember-it",
   "season": 1,
   "season_episode": 5,
   "series_episode": 5,
   "title": "Remember It",
   "release_date": "April 10, 2024",
   "image": {
-    "url": "https://raw.githubusercontent.com/myonixx/x-men-97-api/main/images/episodes/ep5.png",
+    "url": "https://raw.githubusercontent.com/myonixx/x-men-97-api/main/images/episodes/remember-it.png",
     "alt": "Nightcrawler hugs Gambit and Rogue"
   },
   "synopsis": "As Genosha prepares to join the UN, select members of the team head to the island nation to be honorees. Back at the mansion, a behind-the-scenes press event risks airing the X-Men's dirty laundry.",

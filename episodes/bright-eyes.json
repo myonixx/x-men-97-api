@@ -1,12 +1,12 @@
 {
-  "id": 6,
+  "id": "bright-eyes",
   "season": 1,
   "season_episode": 7,
   "series_episode": 7,
   "title": "Bright Eyes",
   "release_date": "April 24, 2024",
   "image": {
-    "url": "https://raw.githubusercontent.com/myonixx/x-men-97-api/main/images/episodes/ep7.png",
+    "url": "https://raw.githubusercontent.com/myonixx/x-men-97-api/main/images/episodes/bright-eyes.png",
     "alt": "Rogue flying with a disgruntled look on her face"
   },
   "synopsis": "Cyclops focuses the X-Men on finding Bolivar Trask. However, when the team locates the Sentinel inventor, they realize that they all have been played by a mastermind.",
