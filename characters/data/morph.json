@@ -1,0 +1,33 @@
+{
+  "identity": "Kevin Sydney",
+  "fullname": "Kevin Sidney",
+  "alias": "Morph",
+  "gender": "Male",
+  "measurements": {
+    "height": "5'10",
+    "weight": "175 lbs."
+  },
+  "image": {
+    "url": "https://raw.githubusercontent.com/myonixx/x-men-97-api/main/characters/images/morph.png",
+    "alt": "Morph posing"
+  },
+  "styles": {
+    "bg_color": "rgb(254 240 138)",
+    "text_color": "rgb(0 0 0)"
+  },
+  "power": {
+    "title": "Shapeshifting",
+    "description": "Morph is an omnimorph composed of unstable molecules, allowing him to rearrange his body's molecules at will within a fraction of a second into a highly malleable state. In such a state, he can stretch, deform, expand or compress his entire body or parts thereof into any contiguous shape, object or person he can imagine. He can extend his limbs, torso or neck to great distances and can extend his body in two directions, creating a canopy, parachute or sheath. He retains full consciousness in whatever form taken, and if a part of his body is severed he can reassemble the parts, but needs time to recover afterward. His “costume” is actually part of his body and he does not give off a scent. He can change color and duplicate the appearance of others, including modifying his vocal chords and using his natural mimicry skills to imitate their voices. By growing additional muscles, he can temporarily enhance his strength to lift approximately 20 tons."
+  },
+  "biography": {
+    "description": "The shape-shifter Morph, once a member of his world's X-Men and Avengers, joins the omniversal Exiles to save and protect realities.",
+    "intro": "In his home reality, shape-shifter Morph leads the New Mutants, graduating to X-Men status, and is a valued Avenger. But when plucked out of time, he's placed on the multiversal team known as the Exiles. He keeps the mood light while he and his team save countless realities.",
+    "title": "Born a Mutant",
+    "story": [
+      "Born an eight-pound white lump of goo flowing like mercury, Kevin Sydney immediately possesses full-blown mutant powers. Already in control of his powers as a toddler, Kevin discovers his parents are happier if he maintains normal human form in public, which he doesn't mind as he's always eager to please. Wearing the form of an “all-American boy,” friends, school and sports comes easy for Kevin.",
+      "When he's 13, his mother dies of lung cancer, causing his father to view life differently. Kevin tries to cheer his father up, but his father withdraws further, eventually sending Kevin to Xavier's Institute for Higher Learning. Code-named “Morph,” he's placed in the New Mutants, quickly becoming the team's leader, while completing a master's degree in computer science and engineering. Morph soon graduates to X-Men status, later joining the Avengers alongside Beast as representatives of mutantkind when a program to help the public understand mutants was created. Even though he becomes a popular member of the Avengers, he still feels that the X-Men are his family and he rejoins their ranks.",
+      "During a mission against a threat known only as Stonehenge, Morph is snatched from his reality by the Timebroker, secretly a hologram created by the “Timebreakers,” an unidentified species of insectoid alien explorers. Landing in the Panoptichron (Crystal Palace)'s desert room, several others join him, such as Clarice Ferguson, AKA Blink (Earth-295), Magnus Lehnsherr, AKA Magnus (Earth-27), Calvin Rankin, AKA Mimic (Earth-12), Talia Wagner, AKA Nocturne (Earth-2182) and John Proudstar, AKA Thunderbird (Earth-1100). The Timebroker tells them they were unhinged from time and must repair broken realities before they could return to their own realities. If they fail, Morph would allegedly be returned home and injured battling the Morlocks, disrupting his physical composition and leaving him in a liquid state, though in truth he would actually be placed in a stasis wall within the Panoptichron if killed or injured, instead of returning home.",
+      "Calling themselves the Exiles, the team has its first mission on Earth-1815 where humanity's zero tolerance program has seen all superhumans jailed, executed or aborted for the past fifty years. Instructed to find their greatest teacher, the team freed Charles Xavier, but discovers that in this reality he was a madman hell-bent on exterminating the Homo sapiens race, and that the instruction referred to Magneto. The Exiles rectify their mistake by freeing all imprisoned superhumans; Magnus sacrifices himself to save Magneto, a key element in saving the reality, while Mimic completes their mission by killing Xavier."
+    ]
+  }
+}
