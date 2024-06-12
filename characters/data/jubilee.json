@@ -1,0 +1,33 @@
+{
+  "identity": "Jubilation Lee",
+  "fullname": "Jubilation Lee",
+  "alias": "Jubilee",
+  "gender": "Female",
+  "measurements": {
+    "height": "5'5",
+    "weight": "115 lbs."
+  },
+  "image": {
+    "url": "https://raw.githubusercontent.com/myonixx/x-men-97-api/main/characters/images/jubilee.png",
+    "alt": "Jubilee posing"
+  },
+  "styles": {
+    "bg_color": "#eec0c6",
+    "text_color": "rgb(0 0 0)",
+    "bg_image": "linear-gradient(315deg, #eec0c6 0%, #7ee8fa 74%)"
+  },
+  "power": {
+    "title": "Pyrotechnics",
+    "description": "Jubilee's mutant powers allow her to generate and control articulate, quasi-animate transitory plasmoids, which take the form of multicolored globules, streamers and sparkles, and explode at her mental command. She can vary their power and intensity, from a multitude of “fireworks” capable of temporarily blinding others, to a powerful detonation capable of much destruction. Although Jubilee can absorb this energy back into her body without harm, her eyes are not immune to her own light bursts—she typically wears large sunglasses to protect her vision. Jubilee has the potential to detonate matter on the molecular level, although she fears this upper limit of her powers and does not explore it. Jubilee also possesses natural psi-shields, which make her thoughts “slippery,” and render her almost invisible to telepaths who don't know precisely what to look for."
+  },
+  "biography": {
+    "description": "From an orphaned mall rat to an X-Man and a vampire to Generation X's leader, Jubilee's path takes her from novice mutant to experienced mentor.",
+    "intro": "Encountering the X-Men by accident, Jubilee quickly befriends the team. With her explosive mutant powers, she proves herself to be a formidable and quick-thinking combatant.",
+    "title": "Emerging Mutant Powers",
+    "story": [
+      "Hong Kong immigrants the Lees name their daughter Jubilation in honor of the prosperous new life they built in the USA. They send her to an exclusive Beverly Hills school, where she discovers a talent for gymnastics—however, various childhood infractions occasionally land the hotheaded young “Jubilee” in juvenile detention. On one occasion, she shoplifts and while fleeing mall security, Jubilee's mutant powers manifest—and a bright display of plasma “fireworks” erupt from her hands, blinding the guards and allowing her to escape.",
+      "When her parents are killed by criminals, Jubilee ends up penniless and houseless, living in the only other home she knows—the Hollywood Mall and puts on light shows with her emerging mutant powers.",
+      "Witnessing an encounter between mutant hunters and the X-Men, Jubilee follows the latter home, eventually helping rescue James Howlett/Logan, AKA Wolverine, from the murderous Reavers cyborgs."
+    ]
+  }
+}
