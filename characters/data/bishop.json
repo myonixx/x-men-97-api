@@ -1,0 +1,32 @@
+{
+  "identity": "Lucas Bishop",
+  "alias": "Bishop",
+  "gender": "Male",
+  "measurements": {
+    "height": "6'6",
+    "weight": "275 lbs."
+  },
+  "image": {
+    "url": "https://raw.githubusercontent.com/myonixx/x-men-97-api/main/characters/images/bishop.png",
+    "alt": "Bishop posing"
+  },
+  "styles": {
+    "bg_color": "rgb(254 240 138)",
+    "text_color": "rgb(0 0 0)"
+  },
+  "power": {
+    "title": "Absorb Energy",
+    "description": "Bishop can absorb energy, either ambient or directed towards him and can project that energy from his body in the form of concussive blasts. Bishop can also store absorbed energy within his reserves, using the energy to increase his strength and recuperative abilities. It also affords him a measure of invulnerability. He is also resistant to most poisons and is inoculated against nanites. "
+  },
+  "biography": {
+    "description": "A fierce fighter for all mutants, Bishop travels back in time to join the heroic X-Men, but when preventing his future, time won't even stop him from becoming a villain.",
+    "intro": "Hailing from the 21st century and alternate reality, Earth-1191, the mutant Bishop travels through time to join the X-Men and attempts to right the wrongs in his future.",
+    "title": "A Mutant Refugee",
+    "story": [
+      "Born in the 21st century A.D. in the alternate future timeline of Earth-1191, Lucas Bishop enters a world in which the mutant-hunting robot Sentinels controlled North America following the birth of a mutant child restarting Earth's mutant population after its decimation on “M-Day.” In this timeline, the Sentinels kill Professor Charles Xavier and most of the members of the mutant team he founded, the X-Men. Surviving mutants are hunted down and imprisoned within mutant relocation camps or killed. Bishop's parents escape to America shortly before a tactical nuclear strike decimated Australia; however, they are soon captured and interred in a mutant relocation camp in Sheep's Head Bay in Brooklyn, New York.",
+      "Bishop and his sister Shard are both born there, and like other mutants are branded with \"M\" tattoos over their right eyes for identification. Bishop grows up with an intense hatred of the mutant child that caused such hardship. After his parents' deaths, Bishop comes under the care of the enigmatic LeBeau, also called the Witness for his reputedly being the last man to see the fabled X-Men alive. Though initially appearing to be the older self of the X-Man Gambit, the Witness actually seems to be a unique, trans-temporal being.",
+      "Later, Bishop reunites with his sister and their mutant grandmother in another camp in Las Vegas, Nevada. Their grandmother often tells them stories about the X-Men's heroism and teaches them to follow Xavier's dream of peace between mutants and humans. Eventually, humans and mutants join forces and overthrow the Sentinels in what becomes known as the Summers Rebellion. Imprisoned mutants are freed from the camps during the subsequent Emancipation but are left to fend for themselves as humans still resisted coexistence with them, and radical mutant terrorist groups like the Exhumes wage war on humanity.",
+      "Eventually, Hecat'e, a mutant veteran of the Summers Rebellion, decides it was unacceptable for humans to hunt down criminal mutants, believing mutants should police themselves. Thus, Hecat'e and other mutant veterans of the rebellion form the Xavier Security Enforcers (XSE), named after Charles Xavier, in honor of his dream of peaceful coexistence between mutants and humans."
+    ]
+  }
+}
