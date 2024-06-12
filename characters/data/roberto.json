@@ -1,0 +1,32 @@
+{
+  "identity": "Roberto Da Costa",
+  "fullname": "Roberto Da Costa",
+  "alias": "Sunspot",
+  "gender": "Male",
+  "measurements": {
+    "height": "5'8",
+    "weight": "170 lbs."
+  },
+  "image": {
+    "url": "https://raw.githubusercontent.com/myonixx/x-men-97-api/main/characters/images/roberto.png",
+    "alt": "Roberto posing"
+  },
+  "styles": {
+    "bg_color": "rgb(245 158 11)",
+    "text_color": "rgb(0 0 0)"
+  },
+  "power": {
+    "title": "Solar Power",
+    "description": "Sunspot's cells absorb solar energy which he can metabolize and store for various purposes, including superhuman strength (lifting 50 tons) and endurance. He can only use his superhuman strength by consciously willing himself to do so, or by growing angry enough that his superhuman energies are released automatically. Originally, Sunspot required direct sunlight for this ability to work; however, as he has matured, his capacity for storing energy has increased until he can now keep his body empowered for extended time periods even at night or within an enclosed space."
+  },
+  "biography": {
+    "description": "Sunspot channels solar energy to become a powerhouse of unbelievable strength, helps the X-Men, and runs a multi-billion dollar company.",
+    "intro": "Growing up in a wealthy Brazilian family, Roberto da Costa forges a career as a skilled soccer player until his explosive mutant nature manifests during a match. He soon joins the New Mutants, and as Sunspot, serves with the team, learning more about his powers and participating in many adventures.",
+    "title": "Soccer Star",
+    "story": [
+      "The son of Brazilian millionaire Emmanuel Da Costa and his American archaeologist wife Nina, Roberto “Bobby” Da Costa had a privileged life but saw his parents grow apart, with Emmanuel increasingly disapproving that Nina's expeditions take her away from home for extended periods. Bobby had a happy childhood despite this tension, and his coaches were grooming him for the Brazilian Olympic soccer team when his life changed at the age of fourteen, during a championship soccer match for his school team in Rio de Janeiro. A racist member of the opposing team, Keller, attacked Bobby, catalyzing Roberto's latent mutant ability to absorb solar radiation and metabolize it as superhuman strength, temporarily turning Bobby's form jet black as he hurled Keller dozens of feet away like a rag doll. Though his fellow players and the crowd panicked and fled as a result of Roberto's altered appearance, his girlfriend, Juliana Sandoval, rushed to his side.",
+      "This incident drew the attention of cyborg Donald Pierce, renegade White Bishop of the Hellfire Club, an elite international social club whose Inner Circle secretly plotted world domination. Having left the Circle, partly because his own anti-mutant bigotry made working with its mutant members distasteful, Pierce now sought to kill all mutants. Failing to abduct Bobby, Pierce's mercenaries instead kidnapped Juliana.",
+      "The telepathic founder of the mutant X-Men, Professor Charles Xavier, AKA Professor X, then secretly infected with an alien Brood egg which influenced him to gather mutant hosts for Brood implantation, learned of Pierce's plan to kill Bobby and sent his colleague Moira MacTaggert and the young mutants Xi'an Coy Manh, AKA Karma, and Danielle Moonstar, AKA Mirage, to save Bobby. Bobby agreed to meet with Pierce's men in return for Juliana's release, but the cyborg mercenaries refused to free her and tried to kill Bobby. Fighting them, Bobby exhausted his power too soon, leaving him vulnerable, but Karma and Mirage intervened, and in the ensuing clash, Juliana sacrificed her life to save Bobby from being shot, throwing herself in the bullet's path and dying in his arms. Wracked with guilt that Juliana had died because of him, Bobby vowed vengeance on Pierce. He joined the other young mutants in tracking down Pierce, who was soon defeated with Xavier's aid. Bobby and the others accepted Xavier's offer of training, moving into Xavier's Mansion to become the New Mutants, with Bobby codenamed Sunspot."
+    ]
+  }
+}
