@@ -1,0 +1,31 @@
+{
+  "identity": "Jean Grey",
+  "fullname": "Jean Grey",
+  "alias": "Jean Grey",
+  "gender": "Female",
+  "measurements": {
+    "height": "5'6",
+    "weight": "115 lbs."
+  },
+  "image": {
+    "url": "https://raw.githubusercontent.com/myonixx/x-men-97-api/main/characters/images/jean.png",
+    "alt": "Jean posing"
+  },
+  "styles": {
+    "bg_color": "rgb(125 211 252)",
+    "text_color": "rgb(0 0 0)"
+  },
+  "power": {
+    "title": "Telekinesis",
+    "description": "Jean can use her powerful telekinetic abilities on herself or others to fly, move or manipulate objects and other beings, stimulate molecules to increase friction, create protective force fields, or project as concussive force. Jean is a powerful telepath who can detect and read the thoughts of others, project her own thoughts into others' minds, form psychic links with other beings, control others' minds so as to manipulate their physical functions, mentally stun opponents with bolts of pure psionic force, cast near-flawless illusions, and project her mind and the minds of others onto the astral plane. At close range, Grey can manipulate almost any number of minds; however, she can only take full possession of another's mind one at a time, and can only do so if she is within that being's physical presence. In the past, Grey has, on occasion, used devices such as Cerebro and Cerebra to amplify her telepathic powers."
+  },
+  "biography": {
+    "description": "From Marvel Girl to Dark Phoenix, Jean Grey's telepathic and telekinetic abilities make her one of the most powerful X-Men in history.",
+    "intro": "An extraordinary telepath and telekinetic, Jean Grey learns to better harness her psionic powers and joins the X-Men as a founding member.",
+    "title": "Traumatic Manifestation",
+    "story": [
+      "Jean Grey is the second daughter born to university professor John Grey and his wife, Elaine. While growing up, Grey and her older sister, Sara, become very close friends. Grey's mutant telepathy manifests prematurely when she's 10 years old when her best friend Annie Richardson is struck by a car while the two girls played outside. As the girl lay dying in her arms, Grey inadvertently links minds with Richardson and experiences her death firsthand, causing deep trauma for Grey, who emotionally and socially withdraws to cope with the tragedy and the constant barrage of other people's thoughts she cannot shut out. Her parents seek help for Grey, but when a score of psychiatrists could not help her, they eventually take her to Professor Charles Xavier, AKA Professor X, a friend of John's from Bard College, who secretly uses his mutant telepathic powers to erect mental blocks within Grey's mind to allow her time to develop her telepathy naturally. As one of his first students, Xavier also begins training Grey in using her telekinetic abilities and quickly learns she has the potential to become an omega-level mutant.",
+      "During one such training session, Grey feels another mind calling to her and, with Xavier's help, determines it to be orphan mutant Scott Summers, AKA Cyclops, who eventually becomes Xavier's student as well. Grey officially enrolls at Xavier's School for Gifted Youngsters and joins the X-Men, a group of teenage mutants trained by Xavier to save and protect the world from mutants that would abuse their powers."
+    ]
+  }
+}
