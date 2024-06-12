@@ -1,0 +1,32 @@
+{
+  "identity": "Scott Summers",
+  "fullname": "Scott Summers",
+  "alias": "Cyclops",
+  "gender": "Male",
+  "measurements": {
+    "height": "6'3",
+    "weight": "195 lbs."
+  },
+  "image": {
+    "url": "https://raw.githubusercontent.com/myonixx/x-men-97-api/main/characters/images/cyclops.png",
+    "alt": "Cyclops posing"
+  },
+  "styles": {
+    "bg_color": "rgb(251 113 133)",
+    "text_color": "rgb(0 0 0)"
+  },
+  "power": {
+    "title": "Optic Blast",
+    "description": "Cyclops can project a beam of heatless, ruby-colored concussive force from his eyes that, at maximum force, is sufficient to tip over a filled 5,000-gallon tank at a distance of 20 feet, or puncture a 1-inch carbon-steel plate at a distance of 2 feet. His eyes are actually no longer just complex organs that utilize the visible spectrum of light to see the world around it; rather, they are interdimensional apertures between this universe and another. Cyclops' body constantly absorbs ambient energy, such as sunlight, from his environment into his body's cells, which allows him to open the apertures. Cyclops' mind generates a particular psionic field that is attuned to the forces that maintain the apertures. Because this field envelops his body, it automatically shunts the other-dimensional particles back into their point of origin when they collide with his body. Thus, his body is protected from the effects of the particles, and even the thin membranes of his eyelids are sufficient to block the emission of energy. The synthetic ruby quartz crystal used to fashion the lenses of Cyclops' eyewear and visor is resonant to his mind's psionic field and is similarly protected."
+  },
+  "biography": {
+    "description": "From a stoic leader of the X-Men to a hardened radical, Cyclops is always true to mutantkind and determined to make Xavier's dream of peace between mutants and humans a reality.",
+    "intro": "Whether leading the X-Men or X-Factor, Cyclops keeps his teammates and mutantkind alive by doing what's necessary.",
+    "title": "Rocky Start",
+    "story": [
+      "Scott Summers is the first of three sons born to Major Christopher Summers, a test pilot for the United States Air Force, and his wife, Katherine. One night while flying his family home from vacation aboard a vintage aircraft, a spacecraft from the interstellar Shi'ar Empire attacks their plane. To save their lives, Katherine pushes Scott and his brother, Alex, out of the plane with the only available parachute. Scott suffers a head injury upon landing, thus forever preventing him from controlling his mutant power by himself. With their parents presumed dead, the authorities separate the two boys. Alex is adopted, but Scott remains comatose in a hospital for a year. On recovering, he's placed in an orphanage in Omaha, Nebraska that was secretly controlled by his future enemy, the evil geneticist Nathaniel Essex, AKA Mister Sinister.",
+      "As a teenager, Scott comes into the foster care of Jack Winters, a mutant criminal known as the Jack O'Diamonds. When Scott starts to suffer from severe headaches and eyestrain he sees a specialist in Washington, D.C., who discovers that lenses made of ruby quartz correct the problem. Soon following, Scott's mutant power first erupts from his eyes as an uncontrollable blast of optic force. The blast demolishes a crane, causing it to drop its payload toward a terrified crowd. Scott saves the onlookers' lives by obliterating the object with another blast, but the bystanders believe that he had tried to kill them and rally into an angry mob. Scott flees, escaping on a freight train. Winters seeks to use Scott's newfound talents in his crimes, and physically abuses the young boy when he initially refuses. However, Scott's display of power attracts the attention of the mutant telepath Professor Charles Xavier, AKA Professor X, who teams up with FBI agent Fred Duncan in their mutual attempt to find Scott. Xavier rescues Scott from Winters' clutches and enlists him as the first member of the X-Men, a team of young mutants who train to use their powers in the fight for human/mutant equality.",
+      "As Cyclops, Scott becomes deputy leader of the X-Men, and while he was a natural field general his social skills were somewhat lacking. Scott falls in love with his teammate Jean Grey, a young woman born with the powers of telepathy and telekinesis, but his reserved demeanor prevents him for years from expressing his feelings for her. When Xavier's other original recruits leave the fold following an encounter with the living island Krakoa, Cyclops stays on as deputy leader of the new team."
+    ]
+  }
+}
