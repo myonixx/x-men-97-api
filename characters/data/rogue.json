@@ -1,0 +1,32 @@
+{
+  "identity": "Anna Marie",
+  "fullname": "Anna Marie",
+  "alias": "Rogue",
+  "gender": "Female",
+  "measurements": {
+    "height": "5'8",
+    "weight": "120 lbs."
+  },
+  "image": {
+    "url": "https://raw.githubusercontent.com/myonixx/x-men-97-api/main/characters/images/rogue.png",
+    "alt": "Rogue posing"
+  },
+  "styles": {
+    "bg_color": "rgb(254 240 138)",
+    "text_color": "rgb(0 0 0)"
+  },
+  "power": {
+    "title": "Power Drain",
+    "description": "Rogue's mutant ability often requires skin-to-skin contact to absorb memories, powers, personality traits, physical talents, and strength. For most of her heroic career, Rogue is unable to control her power, and anyone she touches will almost immediately fall unconscious. However, Rogue's inability to regulate her power is largely psychological in nature, which she eventually overcomes with the help of Charles Xavier, Rita Wayword, AKA Spiral, and herself when conquering her fears. She can eventually take abilities and memories from humans and mutants without harming them and without touch."
+  },
+  "biography": {
+    "description": "Armed with the ability to temporarily absorb others' powers and memories, the Mississippi runaway known as Rogue starts out as a villain but joins the X-Men to fight for good.",
+    "intro": "Without the capacity to control her mutant ability to absorb memories and powers, the young woman known as Rogue walks a dark path. However, Rogue successfully redeems herself as a heroine and becomes a leader among the X-Men and the Avengers.",
+    "title": "Going Rogue",
+    "story": [
+      "Anna Marie, the girl who would become Rogue, runs away from home at an early age after bristling under the controlling nature of her aunt Carrie. Mutant metamorph Raven Darkhölme, AKA Mystique encounters Anna Marie when she goes by her \"Rogue\" nickname, and essentially adopts her alongside Irene Adler, AKA Destiny, Mystique's pre-cognitive mutant lover. Before long, Rogue's mutant powers manifest for the first time when she kisses a boy named Cody and leaves him comatose. Eventually, Rogue realizes she could never have a normal life and accepts her role in Mystique's Brotherhood of Evil Mutants. Rogue fights with Carol Danvers, AKA Ms. Marvel, during one of her early Brotherhood missions, and without intending to, she permanently absorbs her foe's memories and powers.",
+      "Shortly thereafter, Rogue and the Brotherhood attack the Avengers and nearly defeat them. Rogue goes on to menace heroes such as Alison Blaire, AKA Dazzler, the X-Men, and one of the Spaceknights, as Carol Danvers' ongoing presence in her mind quickly erodes her sanity. With no one else to turn to who could help her, Rogue approaches the X-Men and their mentor, Professor Charles Xavier, AKA Professor X. Over the objections of his other students (and a very violent objection from Danvers herself), Xavier allows Rogue to join the team.",
+      "Despite their early misgivings, the X-Men come to accept Rogue once she puts herself on the line to save James Howlett/Logan, AKA Wolverine's fiancée, Mariko Yashida, and Piotr Rasputin, AKA Colossus. Over time, Rogue becomes one of the most trusted X-Men, and goes on to both join and lead the Avengers Unity Squad."
+    ]
+  }
+}
