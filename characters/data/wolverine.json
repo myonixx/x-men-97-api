@@ -1,0 +1,35 @@
+{
+  "identity": "James \"Logan\" Howlett",
+  "fullname": "James \"Logan\" Howlett",
+  "alias": "Wolverine",
+  "gender": "Male",
+  "measurements": {
+    "height": "5'3",
+    "weight": "300 lbs."
+  },
+  "image": {
+    "url": "https://raw.githubusercontent.com/myonixx/x-men-97-api/main/characters/images/wolverine.png",
+    "alt": "Wolverine posing"
+  },
+  "styles": {
+    "bg_color": "rgb(125 211 252)",
+    "text_color": "rgb(0 0 0)"
+  },
+  "power": {
+    "title": "Rapid Regeneration",
+    "description": "Wolverine's rapid regeneration powers allow him to bounce back from almost every type of bodily wound on the condition that his head remains firmly attached to his shoulders. Nevertheless, the time of each healing is understandably proportionate to the severity of the injury. His body is also immune to most poisons, drugs, and diseases; his agility, reflexes, and senses are similarly enhanced. Wolverine sees and hears things at distances far greater than those of ordinary humans. His sense of smell is even more magnified and he can recognize people and objects by scent alone, which, combined with combat and stealth training, makes him one of the world's foremost trackers."
+  },
+  "biography": {
+    "description": "A mutant with an unstoppable healing power, adamantium metal claws and no-nonsense attitude makes the man called Logan, one of the most ferocious heroes in the universe.",
+    "intro": "The man named Logan lives numerous lifetimes as a result of his regenerative mutation before losing his memories during a cruel experiment. But he finds a new home when he joins the ranks of the X-Men as Wolverine. With his brooding demeanor and brawling behavior, he becomes a force of good.",
+    "title": "A Long History",
+    "story": [
+      "James Howlett is born to wealthy parents John and Elizabeth Howlett in Alberta, Canada, and grows up in the late 19th century. As a child, he's frail and unhealthy due to his overactive mutant immune system and neglected by his mother, who's institutionalized following the death of her first son, John Jr., in 1897. James's mutant abilities are triggered when his father is shot by the Howlett groundskeeper Thomas Logan, whom he did not know was his real father. James kills Logan, slashes the face of Logan's son and his friend Dog, and leaves Alberta with a childhood friend, Rose O'Hara.",
+      "His healing abilities drive trauma from his memories, leaving him partially amnesiac. He and Rose find refuge at a British Columbia stone quarry, where Rose, claiming James is her cousin, gives his name as “Logan.” Within months, Logan's powers  due to the environment around him. He becomes healthier and gains senses to rival those of an animal, but also becomes more violent. To divert some of this pent-up rage, Logan partakes in cage fights where his prowess earns him the nickname “Wolverine.” Though he accidentally killing Rose with his claws, and retreats into the woods where he lives as a feral beast, losing all of his former memories.",
+      "He later reenters society and travels the world, partaking in every major conflict of the 20th century (WWI, WWII, the Spanish Civil War, the Vietnam War) as a soldier, criminal, or mercenary for hire. This causes him to coin the phrase, \"I'm the best there is at what I do, but what I do best isn't very nice.\"",
+      "While on the run from the law, he's abducted by the Canadian super-soldier program known as Weapon X, a program he had previously been a willing participant in during the early 1960s as an international operative of Team X. Logan is a prime candidate for this new iteration of Weapon X due to his incredibly fast healing and endurance, which allows Doctor Cornelius and his team to fuse adamantium to his skeleton. The experiment is successful and gives Logan more control over his berserker nature, but also wipes him of any residual memories lingering in his head.",
+      "When Bruce Banner, AKA Hulk, blunders his way into Canadian territory, Logan is mobilized against the green gargantuan. He's also used to kill the entire population of a small town in a field test, but eventually breaks loose from his captors, slaying almost everyone at the Weapon X facility. Despite this, they retain his DNA and use it to create new mutants like Avery Connor and the clawed clone Laura Kinney, AKA X-23.",
+      "His real sense of belonging arrives when he joins the X-Men."
+    ]
+  }
+}
