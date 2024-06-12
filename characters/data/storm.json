@@ -1,0 +1,32 @@
+{
+  "identity": "Ororo Munroe",
+  "fullname": "Ororo Munroe",
+  "alias": "Storm",
+  "gender": "Female",
+  "measurements": {
+    "height": "5'11",
+    "weight": "145 lbs."
+  },
+  "image": {
+    "url": "https://raw.githubusercontent.com/myonixx/x-men-97-api/main/characters/images/storm.png",
+    "alt": "Storm posing"
+  },
+  "styles": {
+    "bg_color": "rgb(96 165 250)",
+    "text_color": "rgb(0 0 0)"
+  },
+  "power": {
+    "title": "Control Weather",
+    "description": "Along with being a highly skilled fighter and thief, Storm is an atmokinetic, able to psionically control the elemental forces that preside over weather. For example, she can end a drought in one area by creating torrential rains there, but that would necessitate robbing all available moisture from the surrounding area. She can redirect winds and alter their intensity from a light zephyr to hurricane force, utilize wind currents to carry herself and others aloft at up to 300 mph, accomplishing flight, while protecting herself and any passengers from air friction, raise or lower humidity and temperature around her, draw moisture from the air to create precipitation such as rain or fog, induce lightning and other electrical atmospheric phenomena, and disperse natural storms. She can also focus effects in a specific direction, such as causing lightning bolts to project from her hands. At times, she's been able to control the air in someone's lungs and the air pressure in a person's inner ear."
+  },
+  "biography": {
+    "description": "Mutant Ororo Munroe confounds enemies of the X-Men by using her psionic abilities to manipulate the weather.",
+    "intro": "As a storied, veteran X-Men member Storm is one of the most powerful mutants on Earth. A trusted and wise leader of the team, with the ability to control and manipulate weather patterns, Storm creates a legacy of both freedom-fighting and mentorship, forever aware of how emotions can cause one's powers to spiral out of control.",
+    "title": "The Rains Down in Africa",
+    "story": [
+      "The daughter of a rebellious Kenyan princess, N'Dare, and an American photographer, David Munroe, Ororo is born in Harlem in New York, though her family relocates to Cairo, Egypt when she was six-months-old. A few years later, N'Dare and David are tragically killed when a plane crashes into their house. Though she survives the event, Ororo would develop claustrophobia due to her time trapped in the rubble of her home. Left an orphan to wander the streets, Ororo picks pockets and steals to survive.",
+      "Ororo eventually leaves Egypt and heads south on foot with the goal of reaching her ancestral homeland. However, she almost dies while crossing the Sahara, triggering Ororo's latent mutant powers over weather, allowing her to save a kidnapped Prince T'Challa who would become Black Panther. She then spends time wandering the Serengeti as a young woman, bringing rain to those in dire need, which transforms her into a worshiped “goddess” among local tribes.",
+      "Working with Ororo to defeat fellow weather manipulator Deluge, Professor Charles Xavier, AKA Professor X, asks her to join a new version of the X-Men; one which would help rescue the original team from the living island of Krakoa. She accepts Xavier's invitation and receives the code name Storm."
+    ]
+  }
+}
