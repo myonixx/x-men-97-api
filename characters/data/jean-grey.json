@@ -9,8 +9,8 @@
     "weight": "115 lbs."
   },
   "image": {
-    "url": "https://raw.githubusercontent.com/myonixx/x-men-97-api/main/characters/images/jean.png",
-    "alt": "Jean posing"
+    "url": "https://raw.githubusercontent.com/myonixx/x-men-97-api/main/characters/images/jean-grey.png",
+    "alt": "Jean Grey posing"
   },
   "styles": {
     "bg_color": "rgb(125 211 252)",
