@@ -1,0 +1,32 @@
+{
+  "identity": "Max Eisenhardt",
+  "fullname": "Max Eisenhardt",
+  "alias": "Magneto",
+  "gender": "Male",
+  "measurements": {
+    "height": "6'2",
+    "weight": "190 lbs."
+  },
+  "image": {
+    "url": "https://raw.githubusercontent.com/myonixx/x-men-97-api/main/characters/images/magneto.png",
+    "alt": "Magneto posing"
+  },
+  "styles": {
+    "bg_color": "rgb(251 113 133)",
+    "text_color": "rgb(0 0 0)"
+  },
+  "power": {
+    "title": "Magnetism",
+    "description": "Among Earth's most powerful mutants, Magneto's abilities are essentially limitless. He can manipulate all forms of magnetism, summon force fields and shoot electromagnetic pulses that can disable electronic devices. He can assemble complex machinery in seconds and manipulate the iron in blood to take control of people's actions. He has even shown power over forms of energy on the electromagnetic spectrum like visible light and gamma rays, though he rarely uses these abilities. On top of these gifts Magneto possesses genius level intelligence in multiple technical fields and genetic engineering. He is a brilliant tactician, a natural born leader and, though he rarely demonstrates it, a trained hand-to-hand combatant."
+  },
+  "biography": {
+    "description": "Using his mighty ability to control magnetic fields, the one called Magneto fights to help mutants replace humans as the world's dominant species.",
+    "intro": "Lose the earrings, watches and any other metal accessories—this metallic manipulator can turn the simplest things into weapons of subjugation. Dubbed the “Master of Magnetism,” Magneto experiences a tumultuous upbringing that leads the young mutant to become obsessively protective of his people's rights, knowing that any day society could turn on them. But what starts as a noble cause quickly morphs into something more sinister, as Magneto begins to believe that mutants should rule over humans. Though usually at odds with Earth's Super Heroes, Magneto comes to mankind's aid on multiple occasions, showing there is still hope for this tragic figure…",
+    "title": "Maven of Mutants",
+    "story": [
+      "Max Eisenhardt starts his life in a world amid mass turmoil and intolerance—Germany, World War II. He witnesses the worst the human race has to offer and while he survives, his family and his people are persecuted and torn apart. Upon the death of his parents and sister, he lands in Auschwitz where he reunites with his childhood crush, Magda. Growing to adulthood in the camp, Max continues to urge his fellow captives to fight for their freedom.",
+      "Eventually implementing a revolt against their Nazi tormentors, Max and Magda escape and flee to a small city where they marry and have a daughter, Anya. Caught in a house fire, the future Magneto's mutant powers finally emerge as he tries to rescue his family, but due to the interference of angry authorities, Anya does not survive. Enraged, he lays waste to the onlookers causing Magda to flee, fearing the evil within him.",
+      "Max obtains forged documents to change his name to Erik Magnus Lehnsherr and settles in Israel where he befriends Charles Xavier, AKA Professor X. The two enjoy debating at length the prospects of a superhuman race before revealing their true identities to one another to thwart a Nazi criminal. The ordeal brings to light Charles and Erik's vastly different stances on the matter of mutant rights and the two go their separate ways, each championing their ideals."
+    ]
+  }
+}
