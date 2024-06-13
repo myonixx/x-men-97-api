@@ -14,7 +14,7 @@
   },
   "styles": {
     "bg_color": "rgb(185 127 201)",
-    "text_color": "rgb(255 255 255)"
+    "text_color": "rgb(0 0 0)"
   },
   "power": {
     "title": "Magnetism",
