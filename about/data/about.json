@@ -9,23 +9,28 @@
   },
   "inquiries": {
     "heading": "Business Inquiries",
+    "owner": "Jorge \"JD\" Davila",
+    "content": "X-Men '97 Website Creator & Maintainer",
     "email": "myonixx@gmail.com"
   },
   "references": [
     {
       "owner": "Marvel Entertainment",
       "content": "X-Men '97 Stories, Episodes, Characters, Artwork, etc.",
-      "url": "https://www.marvel.com/"
+      "url": "https://www.marvel.com/",
+      "url_alias": "marvel.com"
     },
     {
       "owner": "Disney",
       "content": "X-Men '97 Stories, Episodes, Characters, Artwork, etc.",
-      "url": "https://www.disney.com/"
+      "url": "https://www.disney.com/",
+      "url_alias": "disney.com"
     },
     {
       "owner": "Amelia Vidal",
       "content": "X-Men '97 Character Artwork",
-      "url": "https://www.artstation.com/ameliavidal"
+      "url": "https://www.artstation.com/ameliavidal",
+      "url_alias": "artstation.com/ameliavidal"
     }
   ]
 }
