@@ -1,0 +1,27 @@
+{
+  "info": {
+    "heading": "Info and Contact",
+    "description": "description"
+  },
+  "inquiries": {
+    "heading": "Business Inquiries",
+    "description": "description"
+  },
+  "references": [
+    {
+      "owner": "Marvel Entertainment",
+      "content": "X-Men '97 Stories, Episodes, Characters, Artwork, etc.",
+      "url": "https://www.marvel.com/"
+    },
+    {
+      "owner": "Disney",
+      "content": "X-Men '97 Stories, Episodes, Characters, Artwork, etc.",
+      "url": "https://www.disney.com/"
+    },
+    {
+      "owner": "Amelia Vidal",
+      "content": "X-Men '97 Character Artwork",
+      "url": "https://www.artstation.com/ameliavidal"
+    }
+  ]
+}
