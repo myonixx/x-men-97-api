@@ -1,0 +1,42 @@
+[
+  {
+    "id": 0,
+    "title": "News",
+    "image": {
+      "url": "https://raw.githubusercontent.com/myonixx/x-men-97-api/main/header/sidebar/images/news.png",
+      "alt": "Marvel news posters"
+    }
+  },
+  {
+    "id": 1,
+    "title": "Comics",
+    "image": {
+      "url": "https://raw.githubusercontent.com/myonixx/x-men-97-api/main/header/sidebar/images/comics.png",
+      "alt": "Marvel comic posters"
+    }
+  },
+  {
+    "id": 2,
+    "title": "Movies",
+    "image": {
+      "url": "https://raw.githubusercontent.com/myonixx/x-men-97-api/main/header/sidebar/images/movies.png",
+      "alt": "Marvel movie images"
+    }
+  },
+  {
+    "id": 3,
+    "title": "Shows",
+    "image": {
+      "url": "https://raw.githubusercontent.com/myonixx/x-men-97-api/main/header/sidebar/images/shows.png",
+      "alt": "Hawkeye, Loki, and another posing"
+    }
+  },
+  {
+    "id": 4,
+    "title": "Games",
+    "image": {
+      "url": "https://raw.githubusercontent.com/myonixx/x-men-97-api/main/header/sidebar/images/games.png",
+      "alt": "Marvel superheroes posing"
+    }
+  }
+]
