@@ -4,6 +4,7 @@
     "description": "Some description.",
     "release_date": "January 15, 2024",
     "tag": "Animation",
+    "bg_color": "rgb(10 10 10)",
     "image": {
       "container": {
         "url": "https://raw.githubusercontent.com/myonixx/x-men-97-api/main/news/images/xmen-97.png",
@@ -20,6 +21,7 @@
     "description": "Some description.",
     "release_date": "January 15, 2024",
     "tag": "Comic",
+    "bg_color": "rgb(249 115 22)",
     "image": {
       "container": {
         "url": "https://raw.githubusercontent.com/myonixx/x-men-97-api/main/news/images/xmen-97-comics.png",
@@ -32,6 +34,7 @@
     "description": "Some description.",
     "release_date": "January 15, 2024",
     "tag": "Shop",
+    "bg_color": "rgb(14 165 233)",
     "image": {
       "container": {
         "url": "https://raw.githubusercontent.com/myonixx/x-men-97-api/main/news/images/xmen-97-apparel.png",
@@ -44,6 +47,7 @@
     "description": "Some description.",
     "release_date": "January 15, 2024",
     "tag": "Shop",
+    "bg_color": "rgb(236 72 153)",
     "image": {
       "container": {
         "url": "https://raw.githubusercontent.com/myonixx/x-men-97-api/main/news/images/xmen-97-toys.png",
