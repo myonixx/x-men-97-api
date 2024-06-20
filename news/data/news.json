@@ -1,0 +1,54 @@
+[
+  {
+    "title": "Now Streaming On Disney+",
+    "description": "Some description.",
+    "release_date": "January 15, 2024",
+    "tag": "Animation",
+    "image": {
+      "container": {
+        "url": "https://raw.githubusercontent.com/myonixx/x-men-97-api/main/news/images/xmen-97.png",
+        "alt": "Stream X-Men 97 On Disney plus"
+      },
+      "header": {
+        "url": "https://raw.githubusercontent.com/myonixx/x-men-97-api/main/news/images/disney_plus.png",
+        "alt": "Disney Plus Logo"
+      }
+    }
+  },
+  {
+    "title": "The Official Prelude To X-Men '97 Has Arrived",
+    "description": "Some description.",
+    "release_date": "January 15, 2024",
+    "tag": "Comic",
+    "image": {
+      "container": {
+        "url": "https://raw.githubusercontent.com/myonixx/x-men-97-api/main/news/images/xmen-97-comics.png",
+        "alt": "New X-MEN '97 Comics"
+      }
+    }
+  },
+  {
+    "title": "The X-Men Are Back - And The 90s Have Never Looked Better!",
+    "description": "Some description.",
+    "release_date": "January 15, 2024",
+    "tag": "Shop",
+    "image": {
+      "container": {
+        "url": "https://raw.githubusercontent.com/myonixx/x-men-97-api/main/news/images/xmen-97-apparel.png",
+        "alt": "New X-MEN '97 Apparel"
+      }
+    }
+  },
+  {
+    "title": "'Remember It' with These Marvel Must Haves from X-Men '97",
+    "description": "Some description.",
+    "release_date": "January 15, 2024",
+    "tag": "Shop",
+    "image": {
+      "container": {
+        "url": "https://raw.githubusercontent.com/myonixx/x-men-97-api/main/news/images/xmen-97-toys.png",
+        "alt": "New X-MEN '97 Toys"
+      }
+    }
+  }
+]
