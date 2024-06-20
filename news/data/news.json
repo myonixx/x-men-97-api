@@ -4,8 +4,9 @@
     "title": "Now Streaming On Disney+",
     "description": "Some description.",
     "release_date": "January 15, 2024",
-    "tag": "Animation",
+    "tag": "TV Shows",
     "bg_color": "rgb(10 10 10)",
+    "link": "https://www.marvel.com/tv-shows/x-men-97/1",
     "image": {
       "container": {
         "url": "https://raw.githubusercontent.com/myonixx/x-men-97-api/main/news/images/xmen-97.png",
@@ -22,8 +23,9 @@
     "title": "The Official Prelude To X-Men '97 Has Arrived",
     "description": "Some description.",
     "release_date": "January 15, 2024",
-    "tag": "Comic",
+    "tag": "Comics",
     "bg_color": "rgb(249 115 22)",
+    "link": "https://www.marvel.com/articles/comics/march-27-2024-new-marvel-comics-collections-releases-full-list",
     "image": {
       "container": {
         "url": "https://raw.githubusercontent.com/myonixx/x-men-97-api/main/news/images/xmen-97-comics.png",
@@ -36,8 +38,9 @@
     "title": "The X-Men Are Back - And The 90s Have Never Looked Better!",
     "description": "Some description.",
     "release_date": "January 15, 2024",
-    "tag": "Shop",
+    "tag": "Gear",
     "bg_color": "rgb(14 165 233)",
+    "link": "https://www.marvel.com/articles/gear/shop-marvel-must-haves-to-me-my-x-men-97",
     "image": {
       "container": {
         "url": "https://raw.githubusercontent.com/myonixx/x-men-97-api/main/news/images/xmen-97-apparel.png",
@@ -50,8 +53,9 @@
     "title": "'Remember It' with These Marvel Must Haves from X-Men '97",
     "description": "Some description.",
     "release_date": "January 15, 2024",
-    "tag": "Shop",
+    "tag": "Gear",
     "bg_color": "rgb(236 72 153)",
+    "link": "https://www.marvel.com/articles/gear/remember-it-with-these-marvel-must-haves-from-x-men-97",
     "image": {
       "container": {
         "url": "https://raw.githubusercontent.com/myonixx/x-men-97-api/main/news/images/xmen-97-toys.png",
