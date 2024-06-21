@@ -5,6 +5,10 @@
   "series_episode": 8,
   "title": "Tolerance is Extinction - Part 1",
   "release_date": "May 1, 2024",
+  "styles": {
+    "bg_color": "rgb(2, 47, 130)",
+    "text_color": "rgb(147 197 253)"
+  },
   "image": {
     "url": "https://raw.githubusercontent.com/myonixx/x-men-97-api/main/images/episodes/tolerance-is-extinction-part-1.png",
     "alt": "Battered Wolverine surrounded by flames"

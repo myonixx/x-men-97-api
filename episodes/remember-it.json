@@ -5,6 +5,10 @@
   "series_episode": 5,
   "title": "Remember It",
   "release_date": "April 10, 2024",
+  "styles": {
+    "bg_color": "rgb(185 28 28)",
+    "text_color": "rgb(255 255 255)"
+  },
   "image": {
     "url": "https://raw.githubusercontent.com/myonixx/x-men-97-api/main/images/episodes/remember-it.png",
     "alt": "Nightcrawler hugs Gambit and Rogue"
