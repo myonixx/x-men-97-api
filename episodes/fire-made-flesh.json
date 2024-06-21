@@ -5,6 +5,10 @@
   "series_episode": 3,
   "title": "Fire Made Flesh",
   "release_date": "March 27, 2024",
+  "styles": {
+    "bg_color": "rgb(1, 33, 24)",
+    "text_color": "rgb(52 211 153)"
+  },
   "image": {
     "url": "https://raw.githubusercontent.com/myonixx/x-men-97-api/main/images/episodes/fire-made-flesh.png",
     "alt": "Cyclops, Bishop, Morph, and Magneto prepare for battle"

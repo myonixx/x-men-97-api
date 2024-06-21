@@ -5,6 +5,10 @@
   "series_episode": 7,
   "title": "Bright Eyes",
   "release_date": "April 24, 2024",
+  "styles": {
+    "bg_color": "rgb(245 158 11)",
+    "text_color": "rgb(113 63 18)"
+  },
   "image": {
     "url": "https://raw.githubusercontent.com/myonixx/x-men-97-api/main/images/episodes/bright-eyes.png",
     "alt": "Rogue flying with a disgruntled look on her face"

@@ -5,6 +5,10 @@
   "series_episode": 2,
   "title": "Mutant Liberation Begins",
   "release_date": "March 20, 2024",
+  "styles": {
+    "bg_color": "rgb(67, 50, 105)",
+    "text_color": "rgb(196 181 253)"
+  },
   "image": {
     "url": "https://raw.githubusercontent.com/myonixx/x-men-97-api/main/images/episodes/mutant-liberation-begins.png",
     "alt": "Magneto stands trial in the UN"
