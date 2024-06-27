@@ -6,9 +6,10 @@
   "title": "To Me, My X-Men",
   "release_date": "March 20, 2024",
   "styles": {
-    "bg_color": "rgb(2, 47, 130)",
-    "text_color": "rgb(147 197 253)",
-    "first_letter": "rgb(2,47,130)"
+    "bg_color": "#022f82",
+    "text_color": "#93c5fd",
+    "first_letter": "first-letter:text-[#022f82]",
+    "button_color": "#022f82"
   },
   "image": {
     "url": "https://raw.githubusercontent.com/myonixx/x-men-97-api/main/images/episodes/to-me-my-x-men.png",

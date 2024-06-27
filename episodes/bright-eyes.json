@@ -6,9 +6,10 @@
   "title": "Bright Eyes",
   "release_date": "April 24, 2024",
   "styles": {
-    "bg_color": "rgb(245 158 11)",
-    "text_color": "rgb(113 63 18)",
-    "first_letter": "rgb(245,158,11)"
+    "bg_color": "#54902b",
+    "text_color": "#f4ed4e",
+    "first_letter": "first-letter:text-[#54902b]",
+    "button_color": "#54902b"
   },
   "image": {
     "url": "https://raw.githubusercontent.com/myonixx/x-men-97-api/main/images/episodes/bright-eyes.png",

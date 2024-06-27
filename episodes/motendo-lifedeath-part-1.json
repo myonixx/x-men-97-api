@@ -6,9 +6,10 @@
   "title": "Motendo / Lifedeath - Part 1",
   "release_date": "April 3, 2024",
   "styles": {
-    "bg_color": "rgb(245 158 11)",
-    "text_color": "rgb(113 63 18)",
-    "first_letter": "rgb(245,158,11)"
+    "bg_color": "#f59e0b",
+    "text_color": "#713f12",
+    "first_letter": "first-letter:text-[#f59e0b]",
+    "button_color": "#f59e0b"
   },
   "image": {
     "url": "https://raw.githubusercontent.com/myonixx/x-men-97-api/main/images/episodes/motendo-lifedeath-part-1.png",

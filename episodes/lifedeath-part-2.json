@@ -6,9 +6,10 @@
   "title": "Lifedeath - Part 2",
   "release_date": "April 17, 2024",
   "styles": {
-    "bg_color": "rgb(2, 47, 130)",
-    "text_color": "rgb(147 197 253)",
-    "first_letter": "rgb(2,47,130)"
+    "bg_color": "#beb2a3",
+    "text_color": "#243a41",
+    "first_letter": "first-letter:text-[#beb2a3]",
+    "button_color": "#beb2a3"
   },
   "image": {
     "url": "https://raw.githubusercontent.com/myonixx/x-men-97-api/main/images/episodes/lifedeath-part-2.png",
