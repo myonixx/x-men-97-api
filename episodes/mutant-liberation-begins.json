@@ -7,7 +7,8 @@
   "release_date": "March 20, 2024",
   "styles": {
     "bg_color": "rgb(67, 50, 105)",
-    "text_color": "rgb(196 181 253)"
+    "text_color": "rgb(196 181 253)",
+    "first_letter": "rgb(67,50,105)"
   },
   "image": {
     "url": "https://raw.githubusercontent.com/myonixx/x-men-97-api/main/images/episodes/mutant-liberation-begins.png",

@@ -7,7 +7,8 @@
   "release_date": "March 27, 2024",
   "styles": {
     "bg_color": "rgb(1, 33, 24)",
-    "text_color": "rgb(52 211 153)"
+    "text_color": "rgb(52 211 153)",
+    "first_letter": "rgb(1,33,24)"
   },
   "image": {
     "url": "https://raw.githubusercontent.com/myonixx/x-men-97-api/main/images/episodes/fire-made-flesh.png",
