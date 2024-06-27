@@ -6,9 +6,10 @@
   "title": "Tolerance is Extinction - Part 2",
   "release_date": "May 8, 2024",
   "styles": {
-    "bg_color": "rgb(185 28 28)",
-    "text_color": "rgb(255 255 255)",
-    "first_letter": "rgb(185,28,28)"
+    "bg_color": "#458fce",
+    "text_color": "#010101",
+    "first_letter": "first-letter:text-[#458fce]",
+    "button_color": "#458fce"
   },
   "image": {
     "url": "https://raw.githubusercontent.com/myonixx/x-men-97-api/main/images/episodes/tolerance-is-extinction-part-2.png",

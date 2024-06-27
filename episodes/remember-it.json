@@ -6,9 +6,10 @@
   "title": "Remember It",
   "release_date": "April 10, 2024",
   "styles": {
-    "bg_color": "rgb(185 28 28)",
-    "text_color": "rgb(255 255 255)",
-    "first_letter": "rgb(185,28,28)"
+    "bg_color": "#b91c1c",
+    "text_color": "#ffffff",
+    "first_letter": "first-letter:text-[#b91c1c]",
+    "button_color": "#b91c1c"
   },
   "image": {
     "url": "https://raw.githubusercontent.com/myonixx/x-men-97-api/main/images/episodes/remember-it.png",

@@ -8,7 +8,8 @@
   "styles": {
     "bg_color": "rgb(2, 47, 130)",
     "text_color": "rgb(147 197 253)",
-    "first_letter": "rgb(2,47,130)"
+    "first_letter": "first-letter:text-[rgb(2,47,130)]",
+    "button_color": "#f1721e"
   },
   "image": {
     "url": "https://raw.githubusercontent.com/myonixx/x-men-97-api/main/images/episodes/tolerance-is-extinction-part-3.png",
