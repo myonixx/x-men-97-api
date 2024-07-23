@@ -11,11 +11,15 @@
     "image": {
       "container": {
         "url": "https://raw.githubusercontent.com/myonixx/x-men-97-api/main/news/images/xmen-97.png",
-        "alt": "Stream X-Men 97 On Disney plus"
+        "alt": "Stream X-Men 97 On Disney plus",
+        "width": 1200,
+        "height": 675
       },
       "header": {
         "url": "https://raw.githubusercontent.com/myonixx/x-men-97-api/main/news/images/disney_plus.png",
-        "alt": "Disney Plus Logo"
+        "alt": "Disney Plus Logo",
+        "width": 102,
+        "height": 72
       }
     }
   },
@@ -31,7 +35,9 @@
     "image": {
       "container": {
         "url": "https://raw.githubusercontent.com/myonixx/x-men-97-api/main/news/images/xmen-97-comics.png",
-        "alt": "New X-MEN '97 Comics"
+        "alt": "New X-MEN '97 Comics",
+        "width": 1821,
+        "height": 1024
       }
     }
   },
@@ -47,7 +53,9 @@
     "image": {
       "container": {
         "url": "https://raw.githubusercontent.com/myonixx/x-men-97-api/main/news/images/xmen-97-apparel.png",
-        "alt": "New X-MEN '97 Apparel"
+        "alt": "New X-MEN '97 Apparel",
+        "width": 1000,
+        "height": 562
       }
     }
   },
@@ -63,7 +71,9 @@
     "image": {
       "container": {
         "url": "https://raw.githubusercontent.com/myonixx/x-men-97-api/main/news/images/xmen-97-toys.png",
-        "alt": "New X-MEN '97 Toys"
+        "alt": "New X-MEN '97 Toys",
+        "width": 958,
+        "height": 539
       }
     }
   }
