@@ -76,5 +76,41 @@
         "height": 539
       }
     }
+  },
+  {
+    "id": 4,
+    "title": "Unlock Your Free Wolverine X-Men '97 Costume in 'MARVEL Strike Force'",
+    "news_title": "Unlock Your Free Wolverine X-Men '97 Costume in 'MARVEL Strike Force'",
+    "description": "Available for a limited time only!",
+    "release_date": "May 17, 2024",
+    "tag": "Games",
+    "bg_color": "#ff4200",
+    "link": "https://www.marvel.com/articles/games/marvel-strike-force-wolverine-x-men-97-unlock-free-costume",
+    "image": {
+      "container": {
+        "url": "https://raw.githubusercontent.com/myonixx/x-men-97-api/main/news/images/xmen-97-skins.png",
+        "alt": "New X-MEN '97 Skins",
+        "width": 960,
+        "height": 540
+      }
+    }
+  },
+  {
+    "id": 5,
+    "title": "See the X-Men Comics That Inspired 'X-Men '97'",
+    "news_title": "See the X-Men Comics That Inspired 'X-Men '97'",
+    "description": "Jake Castorena and Dana Vasquez-Eberhardt join 'The Official Marvel Podcast' to talk 'X-Men '97' and how they found inspiration in the comics.",
+    "release_date": "July 10, 2024",
+    "tag": "Podcasts",
+    "bg_color": "#2c133f",
+    "link": "https://www.marvel.com/articles/podcasts/the-official-marvel-podcast-x-men-97-comic-inspirations",
+    "image": {
+      "container": {
+        "url": "https://raw.githubusercontent.com/myonixx/x-men-97-api/main/news/images/xmen-97-podcasts.png",
+        "alt": "New X-MEN '97 Podcasts",
+        "width": 780,
+        "height": 438
+      }
+    }
   }
 ]
