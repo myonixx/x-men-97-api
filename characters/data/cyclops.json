@@ -12,6 +12,12 @@
     "url": "https://raw.githubusercontent.com/myonixx/x-men-97-api/main/characters/images/cyclops.png",
     "alt": "Cyclops posing"
   },
+  "hero_image": {
+    "url": "https://raw.githubusercontent.com/myonixx/x-men-97-api/main/characters/hero-images/cyclops.png",
+    "alt": "Cyclops posing",
+    "width": 1920,
+    "height": 640
+  },
   "styles": {
     "bg_color": "rgb(251 113 133)",
     "text_color": "rgb(0 0 0)"

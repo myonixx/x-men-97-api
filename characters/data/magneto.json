@@ -12,6 +12,12 @@
     "url": "https://raw.githubusercontent.com/myonixx/x-men-97-api/main/characters/images/magneto.png",
     "alt": "Magneto posing"
   },
+  "hero_image": {
+    "url": "https://raw.githubusercontent.com/myonixx/x-men-97-api/main/characters/hero-images/magneto.png",
+    "alt": "Magneto posing",
+    "width": 1920,
+    "height": 640
+  },
   "styles": {
     "bg_color": "rgb(185 127 201)",
     "text_color": "rgb(0 0 0)"
