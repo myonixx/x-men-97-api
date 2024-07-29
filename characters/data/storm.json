@@ -12,6 +12,12 @@
     "url": "https://raw.githubusercontent.com/myonixx/x-men-97-api/main/characters/images/storm.png",
     "alt": "Storm posing"
   },
+  "hero_image": {
+    "url": "https://raw.githubusercontent.com/myonixx/x-men-97-api/main/characters/hero-images/storm.png",
+    "alt": "Storm posing",
+    "width": 1920,
+    "height": 640
+  },
   "styles": {
     "bg_color": "rgb(189 185 184)",
     "text_color": "rgb(0 0 0)"

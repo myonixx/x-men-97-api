@@ -12,6 +12,12 @@
     "url": "https://raw.githubusercontent.com/myonixx/x-men-97-api/main/characters/images/jubilee.png",
     "alt": "Jubilee posing"
   },
+  "hero_image": {
+    "url": "https://raw.githubusercontent.com/myonixx/x-men-97-api/main/characters/hero-images/jubilee.png",
+    "alt": "Jubilee posing",
+    "width": 1920,
+    "height": 640
+  },
   "styles": {
     "bg_color": "#eec0c6",
     "text_color": "rgb(0 0 0)",

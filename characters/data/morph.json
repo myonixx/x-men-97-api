@@ -12,6 +12,12 @@
     "url": "https://raw.githubusercontent.com/myonixx/x-men-97-api/main/characters/images/morph.png",
     "alt": "Morph posing"
   },
+  "hero_image": {
+    "url": "https://raw.githubusercontent.com/myonixx/x-men-97-api/main/characters/hero-images/morph.png",
+    "alt": "Morph posing",
+    "width": 1920,
+    "height": 640
+  },
   "styles": {
     "bg_color": "rgb(245 158 11)",
     "text_color": "rgb(0 0 0)"
