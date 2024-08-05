@@ -2,13 +2,17 @@
   "error": {
     "image": {
       "url": "https://raw.githubusercontent.com/myonixx/x-men-97-api/main/error/images/error.jpg",
-      "alt": "Cyclops going down with the plane"
+      "alt": "Cyclops going down with the plane",
+      "width": 3840,
+      "height": 1748
     }
   },
   "not_found": {
     "image": {
       "url": "https://raw.githubusercontent.com/myonixx/x-men-97-api/main/error/images/not_found.jpg",
-      "alt": "X-Men at a rainy funeral"
+      "alt": "X-Men at a rainy funeral",
+      "width": 3840,
+      "height": 1748
     }
   }
 }
