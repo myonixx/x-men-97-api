@@ -1,7 +1,9 @@
 {
   "banner": {
     "url": "https://raw.githubusercontent.com/myonixx/x-men-97-api/main/about/images/about.jpg",
-    "alt": "X-Men preparing to attack"
+    "alt": "X-Men preparing to attack",
+    "width": 3840,
+    "height": 1748
   },
   "info": {
     "heading": "Info and Contact",
